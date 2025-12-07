@@ -44,7 +44,7 @@ Dense (64 units, ReLU)​
 
 Output: Dense (10 units, softmax
 for CIFAR-10 classes)​
-
+Total Training time for me: 5-10 Mins
 ​​
 ​
  <img width="659" height="381" alt="image" src="https://github.com/user-attachments/assets/0fcbd685-4ce1-4678-bc7e-ddc99f184fdd" />
@@ -61,7 +61,7 @@ Loss: Sparse Categorical
 Crossentropy. This specific loss
 function is commonly used for multi-
 class classification problems where the
-labels are integers​
+Labels are integers​
 
 Epochs: 10, with learning rate tuning​
 <img width="1045" height="369" alt="image" src="https://github.com/user-attachments/assets/6361984c-a160-4610-b970-f41c6d4831f3" />
@@ -82,5 +82,7 @@ Provides a visual sample of the data the model is trained on and confirms the as
 
 
 <img width="768" height="805" alt="image" src="https://github.com/user-attachments/assets/e0955fc8-e7fe-438d-bba3-f888c12eaac6" />
+
+
 
 

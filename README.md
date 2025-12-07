@@ -1,4 +1,4 @@
- Webots Robot - Obstacle Avoidance & Color Detection & Photo Capturing of Animals
+ Webots E-Puck Robot - Obstacle Avoidance & Color Detection & Photo Capturing of Animals
 Advanced obstacle avoidance robot with real-time color detection using both RGB and OpenCV HSV methods, featuring automatic image capture when objects are detected. After the captured images are saved on the device, we use them to train my CNN model and see whether it predicts the image correctly under the condition of 32x32 pixels.
 
 ## Features

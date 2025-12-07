@@ -62,13 +62,18 @@ Crossentropy. This specific loss
 function is commonly used for multi-
 class classification problems where the
 Labels are integers​
-
 Epochs: 10, with learning rate tuning​
+
+
+
+
+
 <img width="1045" height="369" alt="image" src="https://github.com/user-attachments/assets/6361984c-a160-4610-b970-f41c6d4831f3" />
 
 
 
 Provides a visual sample of the data the model is trained on and confirms the association between images and their corresponding labels​
+
 ​
 <img width="720" height="730" alt="image" src="https://github.com/user-attachments/assets/c0dc058f-1b99-4389-bed1-2da6e708da4b" />
 
